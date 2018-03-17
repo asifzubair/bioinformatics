@@ -127,7 +127,9 @@ PH525.5x | [Introduction to Bioconductor: annotation and analysis of genomes and
 PH525.6x | [High-performance computing for reproducible genomics](https://www.edx.org/course/case-study-variant-discovery-genotyping-harvardx-ph525-6x) | 8 Weeks | 6 Hours/Week
 PH525.7x | [Case studies in functional genomics](https://www.edx.org/course/case-study-chip-seq-data-analysis-harvardx-ph525-7x) | 8 Weeks | 6 Hours/Week
 MIT 7.91J | [Foundations of Computational and Systems Biology](https://ocw.mit.edu/courses/biology/7-91j-foundations-of-computational-and-systems-biology-spring-2014/)| 14 Week | 6 Hours/Week
+MIT 20.482J | [Foundations of Algorithms and Computational Techniques in Systems Biology](https://ocw.mit.edu/courses/biological-engineering/20-482j-foundations-of-algorithms-and-computational-techniques-in-systems-biology-spring-2006/) | 14 Weeks | 6 Hours/Week
 MIT 6.047 | [Computational Biology](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-047-computational-biology-fall-2015/) | 14 Week | 6 Hours/Week
+HST.508 | [Genomics and Computational Biology](https://ocw.mit.edu/courses/health-sciences-and-technology/hst-508-genomics-and-computational-biology-fall-2002/) | 14 Weeks | 6 Hours/Week
 MIT Readings | [Personal Genomics and Medicine: What's in Your Genome?](https://ocw.mit.edu/courses/biology/7-342-personal-genomics-and-medicine-whats-in-your-genome-spring-2014/readings/) | 14 Weeks | 6 Hours/Week
 MIT Readings | [Biological Computing: At the Crossroads of Engineering and Science](https://ocw.mit.edu/courses/biology/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/readings/) | 14 Weeks | 6 Hours/Week
 MIT Readings | [Topics in Computational and Systems Biology](https://ocw.mit.edu/courses/biology/7-89j-topics-in-computational-and-systems-biology-fall-2010/readings/) | 14 Weeks | 6 Hours/Week
