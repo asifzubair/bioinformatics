@@ -131,6 +131,7 @@ MIT 6.047 | [Computational Biology](https://ocw.mit.edu/courses/electrical-engin
 MIT Readings | [Personal Genomics and Medicine: What's in Your Genome?](https://ocw.mit.edu/courses/biology/7-342-personal-genomics-and-medicine-whats-in-your-genome-spring-2014/readings/) | 14 Weeks | 6 Hours/Week
 MIT Readings | [Biological Computing: At the Crossroads of Engineering and Science](https://ocw.mit.edu/courses/biology/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/readings/) | 14 Weeks | 6 Hours/Week
 MIT Readings | [Topics in Computational and Systems Biology](https://ocw.mit.edu/courses/biology/7-89j-topics-in-computational-and-systems-biology-fall-2010/readings/) | 14 Weeks | 6 Hours/Week
+GGG | [Primers in Computational Biology](http://www.gettinggeneticsdone.com/2016/09/primers-in-computational-biology.html) | 14 Weeks | 6 Hours/Week
 
 > Will continue with Master's in Bioinformatics
 
